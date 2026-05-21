@@ -54,6 +54,12 @@ Fast retrieval with optimized chunking and vector search.
 
 ---
 
+## Demo
+
+![Inbox](assets/RAG-Demo.png)
+
+---
+
 ## Architecture Flow
 
 ```text
@@ -72,7 +78,3 @@ Semantic Retrieval
 GPT Response Generation
     ↓
 Chat Interface Output
-
-
-## Demo
-![Draft](assets/RAG-Demo.png)
