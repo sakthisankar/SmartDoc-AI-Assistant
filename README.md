@@ -62,19 +62,4 @@ Fast retrieval with optimized chunking and vector search.
 
 ## Architecture Flow
 
-```text
-PDF Upload
-    ↓
-Text Extraction
-    ↓
-Recursive Chunking
-    ↓
-OpenAI Embeddings
-    ↓
-FAISS Vector Index
-    ↓
-Semantic Retrieval
-    ↓
-GPT Response Generation
-    ↓
-Chat Interface Output
+![Inbox](assets/rag_pipeline_flowchart.svg)
