@@ -72,8 +72,3 @@ Semantic Retrieval
 GPT Response Generation
     ↓
 Chat Interface Output
-
-## Demo
-
-<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/ba8ca610-f781-4883-b20f-7949fa171527" />
-
