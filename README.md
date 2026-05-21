@@ -72,3 +72,7 @@ Semantic Retrieval
 GPT Response Generation
     ↓
 Chat Interface Output
+
+
+## Demo
+![Draft](assets/RAG-Demo.png)
