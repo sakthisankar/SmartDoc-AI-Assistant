@@ -54,12 +54,12 @@ Fast retrieval with optimized chunking and vector search.
 
 ---
 
-## Demo
-
-![Inbox](assets/RAG-Demo.png)
-
----
-
 ## Architecture Flow
 
 ![Inbox](assets/rag_pipeline_flowchart.svg)
+
+---
+
+## Demo
+
+![Inbox](assets/RAG-Demo.png)
