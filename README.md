@@ -61,5 +61,5 @@ Fast retrieval with optimized chunking and vector search.
 ---
 
 ## Demo
-
+![Inbox](assets/RAG-Demo-1.png)
 ![Inbox](assets/RAG-Demo.png)
